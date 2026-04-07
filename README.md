@@ -1,6 +1,6 @@
 # 👨‍🍳 SmartChef AI – Intelligent Cooking & Nutrition Assistant
 
-SmartChef AI is a full-stack AI-powered web application that helps users cook smarter and plan meals efficiently. It leverages Groq’s LLaMA-3.1-8b-instant model to generate personalized recipes, nutritional insights, and structured meal plans through a modern, responsive interface.
+SmartChef AI is a full-stack AI-powered web application that helps users cook smarter and plan meals efficiently. It leverages LLaMA-3.1-8b-instant model to generate personalized recipes, nutritional insights, and structured meal plans through a modern, responsive interface.
 
 ---
 
