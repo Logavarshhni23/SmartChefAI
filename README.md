@@ -42,7 +42,6 @@ An always-available chatbot to:
 * Glassmorphism-inspired design
 * Fully responsive layout
 
----
 
 ## 🛠 Tech Stack
 
